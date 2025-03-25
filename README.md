@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnckslee)](https://solved.ac/malkoring)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnckslee&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=wnckslee&theme=dark"/>
