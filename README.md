@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JCL-01&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JCL-01"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnckslee)](https://solved.ac/malkoring)
 
